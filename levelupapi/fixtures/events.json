@@ -1,0 +1,25 @@
+[
+  {
+      "model": "levelupapi.event",
+      "pk": 1,
+      "fields": {
+          "game": 1,
+          "description": "The Battle of All Time! Get Ready!",
+          "date": "2024-12-21",
+          "time": "11:30:00",
+          "organizer": 1
+      }
+  },
+  {
+    "model": "levelupapi.event",
+    "pk": 2,
+    "fields": {
+        "game": 2,
+        "description": "A battle of the suypreme nerds. Don't miss this one!",
+        "date": "2024-11-25",
+        "time": "09:30:00",
+        "organizer": 1
+    }
+}
+
+]
